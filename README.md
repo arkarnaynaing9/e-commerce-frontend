@@ -11,6 +11,8 @@ This is the frontend part of the e-commerce platform built using Vue.js. It inte
 - **Admin Dashboard**: Admins can manage products, orders, and users.
 - **Responsive Layout**: Designed with Tailwind CSS for a modern, responsive user interface.
 
+  AI-assisted coding-ChatGPT
+
 ## Installation
 
 1. Clone the repository:
